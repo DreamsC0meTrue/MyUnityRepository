@@ -19,7 +19,7 @@ public class Sample : MonoBehaviour
 ```
 
 **프로젝트 3일차 움직임 작업 구현 완료**
-~~Sample.fbx~~
+~~Sample.fbx사용~~
 
 > 인터넷에 쓰여있는 내용은 진짜다.
 >> 인터넷은 늘 볼거리가 많다.
