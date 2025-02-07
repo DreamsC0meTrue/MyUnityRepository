@@ -24,3 +24,5 @@ public class Sample : MonoBehaviour
 > 인터넷에 쓰여있는 내용은 진짜다.
 >> 인터넷은 늘 볼거리가 많다.
 >>> 그렇지만 사람들은 늘 할게 없다고 외친다.
+
+![Image](https://github.com/user-attachments/assets/dcab8cec-ef4d-4fd6-9b5d-c8c9ec164aaa) 
